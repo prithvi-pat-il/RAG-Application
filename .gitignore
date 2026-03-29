@@ -1,0 +1,11 @@
+.env
+.venv/
+myenv/
+faiss_index/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+# Streamlit
+.streamlit/
